@@ -2,19 +2,19 @@
 
 **This initial exercise is designed as a framework to introduce users to Copernicus data and CLIMADA. Through this exercise, users will learn**:
 
-    How to Search for Data: Guidelines on locating the required data sets.
-    How to Access Data: Steps to gain access to data once found.
-    Using Copernicus API with CLIMADA ETH: Instructions on utilizing the Copernicus API within the context of CLIMADA ETH for environmental data analysis.
-    Data Exploration: Techniques for exploring the data to understand its structure and content.
-    Introduction to CLIMADA ETH for Impact Analysis: An overview of how CLIMADA ETH can be used for assessing environmental impacts.
-    Data Manipulation: How to process data to transform it into a hazard object suitable for analysis.
-    Exploring the Hazard Object: Detailed guide on analyzing the hazard object to extract meaningful insights.
-    Accessing Ready-to-Use Exposure Data (LitPop): Procedure to access LitPop, a ready-to-use exposure data set provided by CLIMADA.
-    Accessing Custom Exposure Data: Instructions on how to search for and use your own exposure data for analysis.
-    Developing an Impact Function: Steps to create a function to calculate the potential impact based on the data.
-    Calculating the Impact: Methodology for computing the impact using the developed function.
-    Exploring Impact Results: Techniques for analyzing and understanding the results of the impact assessment.
-    Saving Analysis Results: Guidance on how to save the results of the analysis in both tabular and spatial formats for further use.
+- How to Search for Data: Guidelines on locating the required data sets.
+- How to Access Data: Steps to gain access to data once found.
+- Using Copernicus API with CLIMADA ETH: Instructions on utilizing the Copernicus API within the context of CLIMADA ETH for environmental data analysis.
+- Data Exploration: Techniques for exploring the data to understand its structure and content.
+- Introduction to CLIMADA ETH for Impact Analysis: An overview of how CLIMADA ETH can be used for assessing environmental impacts.
+- Data Manipulation: How to process data to transform it into a hazard object suitable for analysis.
+- Exploring the Hazard Object: Detailed guide on analyzing the hazard object to extract meaningful insights.
+- Accessing Ready-to-Use Exposure Data (LitPop): Procedure to access LitPop, a ready-to-use exposure data set provided by CLIMADA.
+- Accessing Custom Exposure Data: Instructions on how to search for and use your own exposure data for analysis.
+- Developing an Impact Function: Steps to create a function to calculate the potential impact based on the data.
+- Calculating the Impact: Methodology for computing the impact using the developed function.
+- Exploring Impact Results: Techniques for analyzing and understanding the results of the impact assessment.
+- Saving Analysis Results: Guidance on how to save the results of the analysis in both tabular and spatial formats for further use.
 
 ## Functions
 
