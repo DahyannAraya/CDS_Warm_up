@@ -96,9 +96,9 @@ Activate the Environment: Once the environment is successfully created, you can 
   ```bash
     conda activate climada_env_cds
 
-Verify the Environment: To ensure everything is set up correctly, you can list the installed packages using:
+  Verify the Environment: To ensure everything is set up correctly, you can list the installed packages using:
 
 ```bash
     conda list
 
-This environment includes all necessary libraries and packages, such as CLIMADA, required data processing and analysis tools, and other dependencies specified within the project. By following these steps, you ensure that you have a consistent setup that mirrors the project's intended environment, facilitating a smoother workflow and analysis process.
+  This environment includes all necessary libraries and packages, such as CLIMADA, required data processing and analysis tools, and other dependencies specified within the project. By following these steps, you ensure that you have a consistent setup that mirrors the project's intended environment, facilitating a smoother workflow and analysis process.
