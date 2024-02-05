@@ -83,17 +83,6 @@ To ensure consistency and reproducibility across different setups, we provide a 
 
 To recreate the project environment, follow these steps:
 
-1. **Ensure
-
-
-## Environment Setup
-
-To ensure consistency and reproducibility across different setups, we provide a Conda environment file, `climada_env_cds.yml`, that specifies all the dependencies needed to run the exercises and analyses presented in this project.
-
-### Using the Provided Environment File
-
-To recreate the project environment, follow these steps:
-
 - **Ensure Conda is Installed**: Make sure you have Conda installed on your system. You can download Miniconda or Anaconda from their respective websites.
 
 - **Download the Environment File**: The `climada_env_cds.yml` file is available in the root directory of this project. Download this file to your local machine.
