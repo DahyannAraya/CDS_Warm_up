@@ -1,4 +1,4 @@
-# Warm-Up Exercise" - Integration of CLIMADA Impact Assessment with Copernicus Climate Change Service (C3S) data
+# Warm-Up Exercise - Integration of CLIMADA Impact Assessment with Copernicus Climate Change Service (C3S) data
 
 **This initial exercise is designed as a framework to introduce users to Copernicus data and CLIMADA. Through this exercise, users will learn**:
 
@@ -99,4 +99,4 @@ Verify the Environment: To ensure everything is set up correctly, you can list t
   ```bash
   conda list
 
-This environment includes all necessary libraries and packages, such as CLIMADA, required data processing and analysis tools, and other dependencies specified within the project. By following these steps, you ensure that you have a consistent setup that mirrors the project's intended environment, facilitating a smoother workflow and analysis process.
+This environment includes all necessary libraries and packages, such as CLIMADA, required data processing and analysis tools, and other dependencies specified within the project. By following these steps, you ensure that you have a consistent setup that mirrors the project's intended environment, facilitating a smoother workflow and analysis process.**
