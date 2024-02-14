@@ -1,4 +1,4 @@
-![](Logos.png)
+![](Logos.jpg)
 
 # Warm-Up Exercise" - Integration of CLIMADA Impact Assessment with Copernicus Climate Change Service (C3S) data
 
