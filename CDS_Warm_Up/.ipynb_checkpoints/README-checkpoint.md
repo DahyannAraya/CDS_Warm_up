@@ -1,3 +1,5 @@
+![](Logos.png)
+
 # Warm-Up Exercise" - Integration of CLIMADA Impact Assessment with Copernicus Climate Change Service (C3S) data
 
 **This initial exercise is designed as a framework to introduce users to Copernicus data and CLIMADA. Through this exercise, users will learn**:
