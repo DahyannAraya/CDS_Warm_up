@@ -23,8 +23,6 @@
 
 Within the context of this project, specialized functions have been developed to assist users in exporting their findings, particularly the Annual Expected Impact (AEI). AEI refers to the anticipated impact in an average year for each exposure point, available in NetCDF or GeoTIFF formats. This feature is particularly beneficial for integrating CLIMADA's outcomes with other geospatial platforms or software for extended analysis. Moreover, these functionalities facilitate quicker and more straightforward visual communication of the results.
 
-This exercise aims to equip users with the necessary skills to navigate, utilize, and analyze Copernicus data effectively within the CLIMADA ETH framework. By engaging with this guide, users will be prepared to conduct comprehensive impact analyses and communicate their findings efficiently.
-
 ## Data Description
 
 ### Heatwave Hazard Analysis in Europe
