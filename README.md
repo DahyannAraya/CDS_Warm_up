@@ -42,7 +42,7 @@ Within the context of this project, specialized functions have been developed to
 
 **Dataset Overview**:
 - **Source**: Copernicus
-- **Climate Scenarios**: RCP 8.5 and RCP 4.5, representing different greenhouse gas concentration trajectories.
+- **Climate Scenario**: RCP 8.5 representing different greenhouse gas concentration trajectories.
 - **Data Type**: Bias-adjusted EURO-CORDEX dataset.
 - **Temporal Coverage**: 1971 to 2100.
 - **Analysis Period**: Averaging statistics over 30-year intervals for a smooth mean time series spanning 1986 to 2085.
