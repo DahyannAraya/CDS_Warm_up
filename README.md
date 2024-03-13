@@ -1,6 +1,8 @@
 ![](Logos.jpg)
 
-# Warm-Up Exercise - Integration of CLIMADA Impact Assessment with Copernicus Climate Change Service (C3S) data
+Welcome to our UNSEQUA documentation, integrating robust impact assessment tools with the valuable climate data from the Copernicus Climate Change Service (C3S) with CLIMADA ETH. We provide two comprehensive notebooks that serve as a foundational gateway into the world of climate impact analysis.
+
+## Warm-Up documentation - Integration of CLIMADA Impact Assessment with Copernicus Climate Change Service (C3S) data
 
 **This initial exercise is designed as a framework to introduce users to Copernicus data and CLIMADA. Through this exercise, users will learn:**
 
@@ -17,6 +19,16 @@
 - **Calculating the Impact**: Methodology for computing the impact using the developed function.
 - **Exploring Impact Results**: Techniques for analyzing and understanding the results of the impact assessment.
 - **Saving Analysis Results**: Guidance on how to save the results of the analysis in both tabular and spatial formats for further use.
+
+## Uncertainty and Sensitivity documentation - Integration of CLIMADA Impact Assessment with Copernicus Climate Change Service (C3S) data
+
+- **Data Extraction**: Retrieved and processed the European heatwave dataset from Copernicus for climate scenarios RCP 8.5.
+- **Heatwave Visualization**: Illustrated annual heatwave days for 2010 and 2080, highlighting expected increases in frequency.
+- **Uncertainty Analysis**: Employed CLIMADA's unsequa module to assess the impact of uncertain parameters on model outcomes.
+- **Impact Function Analysis**: Evaluated the vulnerability function for heatwaves, using a sigmoid function for mean damage degree (MDD) calculation.
+- **Sampling Techniques Exploration**: Investigated various SALib sampling methods in CLIMADA for sensitivity analysis.
+- **Uncertainty Visualization**: Displayed uncertainty in heatwave impacts on populations through distribution plots.
+- **Impact Values Comparison**: Contrasted deterministic impacts with uncertain outcomes to underscore variability in annual impacts and frequency curves.
 
 ## Functions
 
