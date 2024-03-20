@@ -1,6 +1,8 @@
 ![](Logos.jpg)
 
-# Warm-Up Exercise - Integration of CLIMADA Impact Assessment with Copernicus Climate Change Service (C3S) data
+Welcome to our UNSEQUA documentation, integrating robust impact assessment tools with the valuable climate data from the Copernicus Climate Change Service (C3S) with CLIMADA ETH. We provide two comprehensive notebooks that serve as a foundational gateway into the world of climate impact analysis.
+
+## Warm-Up documentation - Integration of CLIMADA Impact Assessment with Copernicus Climate Change Service (C3S) data
 
 **This initial exercise is designed as a framework to introduce users to Copernicus data and CLIMADA. Through this exercise, users will learn:**
 
@@ -18,6 +20,16 @@
 - **Exploring Impact Results**: Techniques for analyzing and understanding the results of the impact assessment.
 - **Saving Analysis Results**: Guidance on how to save the results of the analysis in both tabular and spatial formats for further use.
 
+## Uncertainty and Sensitivity documentation - Integration of CLIMADA Impact Assessment with Copernicus Climate Change Service (C3S) data
+
+- **Data Extraction**: Retrieved and processed the European heatwave dataset from Copernicus for climate scenarios RCP 8.5.
+- **Heatwave Visualization**: Illustrated annual heatwave days for 2010 and 2080, highlighting expected increases in frequency.
+- **Uncertainty Analysis**: Employed CLIMADA's unsequa module to assess the impact of uncertain parameters on model outcomes.
+- **Impact Function Analysis**: Evaluated the vulnerability function for heatwaves, using a sigmoid function for mean damage degree (MDD) calculation.
+- **Sampling Techniques Exploration**: Investigated various SALib sampling methods in CLIMADA for sensitivity analysis.
+- **Uncertainty Visualization**: Displayed uncertainty in heatwave impacts on populations through distribution plots.
+- **Impact Values Comparison**: Contrasted deterministic impacts with uncertain outcomes to underscore variability in annual impacts and frequency curves.
+
 ## Functions
 
 Within the context of this project, specialized functions have been developed to assist users in exporting their findings, particularly the Annual Expected Impact (AEI). AEI refers to the anticipated impact in an average year for each exposure point, available in NetCDF or GeoTIFF formats. This feature is particularly beneficial for integrating CLIMADA's outcomes with other geospatial platforms or software for extended analysis. Moreover, these functionalities facilitate quicker and more straightforward visual communication of the results.
@@ -30,7 +42,7 @@ Within the context of this project, specialized functions have been developed to
 
 **Dataset Overview**:
 - **Source**: Copernicus
-- **Climate Scenarios**: RCP 8.5 and RCP 4.5, representing different greenhouse gas concentration trajectories.
+- **Climate Scenario**: RCP 8.5 representing different greenhouse gas concentration trajectories.
 - **Data Type**: Bias-adjusted EURO-CORDEX dataset.
 - **Temporal Coverage**: 1971 to 2100.
 - **Analysis Period**: Averaging statistics over 30-year intervals for a smooth mean time series spanning 1986 to 2085.
