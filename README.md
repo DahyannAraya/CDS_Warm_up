@@ -1,6 +1,6 @@
 ![](Logos.jpg)
 
-Welcome to our UNSEQUA documentation, integrating robust impact assessment tools with the valuable climate data from the Copernicus Climate Change Service (C3S) with CLIMADA ETH. We provide two comprehensive notebooks that serve as a foundational gateway into the world of climate impact analysis.
+Welcome to our U-CLIMADAPT/CLIMADA ETH documentation, integrating robust impact assessment tools with the valuable climate data from the Copernicus Climate Change Service (C3S) with CLIMADA ETH. We provide two comprehensive notebooks that serve as a foundational gateway into the world of climate impact analysis.
 
 ## Warm-Up documentation - Integration of CLIMADA Impact Assessment with Copernicus Climate Change Service (C3S) data
 
