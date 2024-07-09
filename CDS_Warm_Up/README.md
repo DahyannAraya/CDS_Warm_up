@@ -4,14 +4,20 @@
 
 Welcome to our UNSEQUA documentation, integrating robust impact assessment tools with the valuable climate data from the Copernicus Climate Change Service (C3S) with CLIMADA ETH. We provide two comprehensive notebooks that serve as a foundational gateway into the world of climate impact analysis.
 
+## Installation and Data Access Documentation - Integration of CLIMADA Impact Assessment with Copernicus Climate Change Service (C3S) data
+
+**This first book provides guidance on installing CLIMADA and the Copernicus API for accessing data from the Copernicus Data Store (CDS). It also demonstrates how to explore, select, and download data from the CDS:**
+
+- **How to Install CLIMADA the Copernicus API**:Instructions on how to proceed with the installation. 
+- **How to Search for Data**: Guidelines on locating the required data sets.
+- **How to Access Data**: Steps to gain access to data once found.
+- **Using Copernicus API with CLIMADA ETH**: Instructions on utilizing the Copernicus API within the context of CLIMADA ETH for environmental data analysis.
+
+
 ## Warm-Up documentation - Integration of CLIMADA Impact Assessment with Copernicus Climate Change Service (C3S) data
 
 **This initial exercise is designed as a framework to introduce users to Copernicus data and CLIMADA. Through this exercise, users will learn:**
 
-- **How to Search for Data**: Guidelines on locating the required data sets.
-- **How to Access Data**: Steps to gain access to data once found.
-- **Using Copernicus API with CLIMADA ETH**: Instructions on utilizing the Copernicus API within the context of CLIMADA ETH for environmental data analysis.
-- **Data Exploration**: Techniques for exploring the data to understand its structure and content.
 - **Introduction to CLIMADA ETH for Impact Analysis**: An overview of how CLIMADA ETH can be used for assessing environmental impacts.
 - **Data Manipulation**: How to process data to transform it into a hazard object suitable for analysis.
 - **Exploring the Hazard Object**: Detailed guide on analyzing the hazard object to extract meaningful insights.
