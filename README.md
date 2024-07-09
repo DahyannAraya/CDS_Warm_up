@@ -1,15 +1,23 @@
 ![](Logos.jpg)
 
-Welcome to our U-CLIMADAPT/CLIMADA ETH documentation, integrating robust impact assessment tools with the valuable climate data from the Copernicus Climate Change Service (C3S) with CLIMADA ETH. We provide two comprehensive notebooks that serve as a foundational gateway into the world of climate impact analysis.
+
+
+Welcome to our UNSEQUA documentation, integrating robust impact assessment tools with the valuable climate data from the Copernicus Climate Change Service (C3S) with CLIMADA ETH. We provide two comprehensive notebooks that serve as a foundational gateway into the world of climate impact analysis.
+
+## Installation and Data Access Documentation - Integration of CLIMADA Impact Assessment with Copernicus Climate Change Service (C3S) data
+
+**This first book provides guidance on installing CLIMADA and the Copernicus API for accessing data from the Copernicus Data Store (CDS). It also demonstrates how to explore, select, and download data from the CDS:**
+
+- **How to Install CLIMADA the Copernicus API**:Instructions on how to proceed with the installation. 
+- **How to Search for Data**: Guidelines on locating the required data sets.
+- **How to Access Data**: Steps to gain access to data once found.
+- **Using Copernicus API with CLIMADA ETH**: Instructions on utilizing the Copernicus API within the context of CLIMADA ETH for environmental data analysis.
+
 
 ## Warm-Up documentation - Integration of CLIMADA Impact Assessment with Copernicus Climate Change Service (C3S) data
 
 **This initial exercise is designed as a framework to introduce users to Copernicus data and CLIMADA. Through this exercise, users will learn:**
 
-- **How to Search for Data**: Guidelines on locating the required data sets.
-- **How to Access Data**: Steps to gain access to data once found.
-- **Using Copernicus API with CLIMADA ETH**: Instructions on utilizing the Copernicus API within the context of CLIMADA ETH for environmental data analysis.
-- **Data Exploration**: Techniques for exploring the data to understand its structure and content.
 - **Introduction to CLIMADA ETH for Impact Analysis**: An overview of how CLIMADA ETH can be used for assessing environmental impacts.
 - **Data Manipulation**: How to process data to transform it into a hazard object suitable for analysis.
 - **Exploring the Hazard Object**: Detailed guide on analyzing the hazard object to extract meaningful insights.
@@ -29,6 +37,7 @@ Welcome to our U-CLIMADAPT/CLIMADA ETH documentation, integrating robust impact 
 - **Sampling Techniques Exploration**: Investigated various SALib sampling methods in CLIMADA for sensitivity analysis.
 - **Uncertainty Visualization**: Displayed uncertainty in heatwave impacts on populations through distribution plots.
 - **Impact Values Comparison**: Contrasted deterministic impacts with uncertain outcomes to underscore variability in annual impacts and frequency curves.
+
 
 ## Functions
 
@@ -62,7 +71,7 @@ Following the hazard identification, we will develop the exposure dataset. Expos
   - **Data Source**: Access the Worldpop website (worldpop.org) or a specific data repository designated for population data.
   - **Data Selection**: Locate and download the population data for Switzerland and Germany at 1 km resolution for 2020.
   - **Format**: Ensure the data is in a format that aligns with your analytical or processing needs (e.g., raster file format).
-
+ 
 ## Environment Setup
 
 To ensure consistency and reproducibility across different setups, we provide a Conda environment file, `climada_env_cds.yml`, that specifies all the dependencies needed to run the exercises and analyses presented in this project.
@@ -78,7 +87,7 @@ To recreate the project environment, follow these steps:
 - **Create the Environment**: Open your terminal (or Anaconda Prompt on Windows) and navigate to the directory where `climada_env_cds.yml` is located. Run the following command to create the Conda environment:
   ```bash
   conda env create -f climada_env_cds.yml
-  
+
 - **Activate the Environment**: Once the environment is successfully created, you can activate it using:
   ```bash
   conda activate climada_env_cds
