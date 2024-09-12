@@ -28,6 +28,20 @@ Welcome to our UNSEQUA documentation, integrating robust impact assessment tools
 - **Exploring Impact Results**: Techniques for analyzing and understanding the results of the impact assessment.
 - **Saving Analysis Results**: Guidance on how to save the results of the analysis in both tabular and spatial formats for further use.
 
+
+## Scenario documentation - Integration of CLIMADA Impact Assessment with Copernicus Climate Change Service (C3S) data
+**This scenario exercise introduced users to analyzing heatwave impacts under future climate scenarios using CLIMADA and data from the Copernicus Climate Data Store (CDS). Through this exercise, users learned:**
+
+- **Exploring Climate Scenarios**: How to work with climate change scenarios like RCP 8.5 to understand their effects on heatwave trends and impacts on populations.
+- **Accessing and Downloading Data**: Steps to search for and download scenario-based data from the Copernicus Climate Data Store, focusing on variables related to heatwaves and population exposure.
+- **Setting up the Heatwave Hazard**: How to define and set up the heatwave hazard by integrating climate scenario data, enabling long-term projections of heatwave frequency and intensity.
+- **Estimating Population Exposure**: A guide to estimating the population exposed to future heatwaves using socio-economic pathways such as SSP5, highlighting how demographic changes influence risk.
+- **Defining Vulnerability and Impact Functions**: Detailed instructions on creating custom impact functions to calculate the potential impacts of heatwaves, considering both climate and population data.
+- **Calculating Impacts**: Methodology for calculating the impacts of heatwaves across different decades, assessing how future climate conditions will affect vulnerable populations.
+- **Visualizing and Analyzing Results**: Techniques for visualizing the progression of heatwave impacts over time, from 2010 to 2080, allowing users to explore how risks intensify under future climate scenarios.
+- **Saving Results for Further Use**: Guidance on saving analysis results in both NetCDF and GeoTIFF formats for use in GIS tools, supporting further spatial analysis and adaptation planning.
+
+
 ## Uncertainty and Sensitivity documentation - Integration of CLIMADA Impact Assessment with Copernicus Climate Change Service (C3S) data
 
 - **Data Extraction**: Retrieved and processed the European heatwave dataset from Copernicus for climate scenarios RCP 8.5.
