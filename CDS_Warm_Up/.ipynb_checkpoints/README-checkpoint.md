@@ -2,16 +2,22 @@
 
 
 
-Welcome to our UNSEQUA documentation, integrating robust impact assessment tools with the valuable climate data from the Copernicus Climate Change Service (C3S) with CLIMADA ETH. We provide two comprehensive notebooks that serve as a foundational gateway into the world of climate impact analysis.
+Welcome to our UNSEQUA documentation, integrating robust impact assessment tools with the valuable climate data from the Copernicus Climate Change Service (C3S) with CLIMADA ETH. We provide four comprehensive notebooks that serve as a foundational gateway into the world of climate impact analysis.
+
+## Installation and Data Access Documentation - Integration of CLIMADA Impact Assessment with Copernicus Climate Change Service (C3S) data
+
+**This first book provides guidance on installing CLIMADA and the Copernicus API for accessing data from the Copernicus Data Store (CDS). It also demonstrates how to explore, select, and download data from the CDS:**
+
+- **How to Install CLIMADA the Copernicus API**:Instructions on how to proceed with the installation. 
+- **How to Search for Data**: Guidelines on locating the required data sets.
+- **How to Access Data**: Steps to gain access to data once found.
+- **Using Copernicus API with CLIMADA ETH**: Instructions on utilizing the Copernicus API within the context of CLIMADA ETH for environmental data analysis.
+
 
 ## Warm-Up documentation - Integration of CLIMADA Impact Assessment with Copernicus Climate Change Service (C3S) data
 
 **This initial exercise is designed as a framework to introduce users to Copernicus data and CLIMADA. Through this exercise, users will learn:**
 
-- **How to Search for Data**: Guidelines on locating the required data sets.
-- **How to Access Data**: Steps to gain access to data once found.
-- **Using Copernicus API with CLIMADA ETH**: Instructions on utilizing the Copernicus API within the context of CLIMADA ETH for environmental data analysis.
-- **Data Exploration**: Techniques for exploring the data to understand its structure and content.
 - **Introduction to CLIMADA ETH for Impact Analysis**: An overview of how CLIMADA ETH can be used for assessing environmental impacts.
 - **Data Manipulation**: How to process data to transform it into a hazard object suitable for analysis.
 - **Exploring the Hazard Object**: Detailed guide on analyzing the hazard object to extract meaningful insights.
@@ -21,6 +27,20 @@ Welcome to our UNSEQUA documentation, integrating robust impact assessment tools
 - **Calculating the Impact**: Methodology for computing the impact using the developed function.
 - **Exploring Impact Results**: Techniques for analyzing and understanding the results of the impact assessment.
 - **Saving Analysis Results**: Guidance on how to save the results of the analysis in both tabular and spatial formats for further use.
+
+
+## Scenario documentation - Integration of CLIMADA Impact Assessment with Copernicus Climate Change Service (C3S) data
+**This scenario exercise introduced users to analyzing heatwave impacts under future climate scenarios using CLIMADA and data from the Copernicus Climate Data Store (CDS). Through this exercise, users learned:**
+
+- **Exploring Climate Scenarios**: How to work with climate change scenarios like RCP 8.5 to understand their effects on heatwave trends and impacts on populations.
+- **Accessing and Downloading Data**: Steps to search for and download scenario-based data from the Copernicus Climate Data Store, focusing on variables related to heatwaves and population exposure.
+- **Setting up the Heatwave Hazard**: How to define and set up the heatwave hazard by integrating climate scenario data, enabling long-term projections of heatwave frequency and intensity.
+- **Estimating Population Exposure**: A guide to estimating the population exposed to future heatwaves using socio-economic pathways such as SSP5, highlighting how demographic changes influence risk.
+- **Defining Vulnerability and Impact Functions**: Detailed instructions on creating custom impact functions to calculate the potential impacts of heatwaves, considering both climate and population data.
+- **Calculating Impacts**: Methodology for calculating the impacts of heatwaves across different decades, assessing how future climate conditions will affect vulnerable populations.
+- **Visualizing and Analyzing Results**: Techniques for visualizing the progression of heatwave impacts over time, from 2010 to 2080, allowing users to explore how risks intensify under future climate scenarios.
+- **Saving Results for Further Use**: Guidance on saving analysis results in both NetCDF and GeoTIFF formats for use in GIS tools, supporting further spatial analysis and adaptation planning.
+
 
 ## Uncertainty and Sensitivity documentation - Integration of CLIMADA Impact Assessment with Copernicus Climate Change Service (C3S) data
 
