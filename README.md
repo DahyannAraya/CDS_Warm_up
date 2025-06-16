@@ -1,8 +1,10 @@
-![](Logos.jpg)
+<img src="images/Logos.png" alt="Project Logos" width="70%"/>
 
+# **Warm-Up U-CLIMADAPT: CLIMADA Integration with Copernicus Climate Data** 
 
+<img src="images/copernicus_forecast_qr.png" alt="Repository QR Code" width="150"/>
 
-Welcome to our UNSEQUA documentation, integrating robust impact assessment tools with the valuable climate data from the Copernicus Climate Change Service (C3S) with CLIMADA ETH. We provide two comprehensive notebooks that serve as a foundational gateway into the world of climate impact analysis.
+This repository is part of the U-CLIMADAPT project, which aims to strengthen the integration between climate data from the Copernicus Climate Data Store (CDS) and the CLIMADA platform for climate impact assessment and adaptation planning.
 
 ## Installation and Data Access Documentation - Integration of CLIMADA Impact Assessment with Copernicus Climate Change Service (C3S) data
 
