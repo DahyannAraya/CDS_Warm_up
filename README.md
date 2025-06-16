@@ -6,6 +6,10 @@
 
 This repository is part of the U-CLIMADAPT project, which aims to strengthen the integration between climate data from the Copernicus Climate Data Store (CDS) and the CLIMADA platform for climate impact assessment and adaptation planning.
 
+This documentation complements the main U-CLIMADAPT Python package:
+[copernicus-seasonal-forecast-tools](https://github.com/DahyannAraya/copernicus-seasonal-forecast-tools)
+A modular package for downloading, processing, and transforming seasonal forecast data into hazard indicators, enabling seamless integration with CLIMADA.
+
 ## Installation and Data Access Documentation - Integration of CLIMADA Impact Assessment with Copernicus Climate Change Service (C3S) data
 
 **This first book provides guidance on installing CLIMADA and the Copernicus API for accessing data from the Copernicus Data Store (CDS). It also demonstrates how to explore, select, and download data from the CDS:**
